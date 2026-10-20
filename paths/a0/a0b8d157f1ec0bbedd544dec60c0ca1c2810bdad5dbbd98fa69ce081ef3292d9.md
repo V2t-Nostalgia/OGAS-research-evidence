@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `runtime-evidence/producer-validation-live-4.5.2-20261020-01/backfill-20261020T091601Z/remote-evidence/batch/command-0062.json`
+
+Access: `public_original`
+
+Original SHA-256: `04cc631957bab7337e8f33b32418474b13c5b1ab7ff85fbcdf9e95cfe0546fc4`
+
+Public SHA-256: `04cc631957bab7337e8f33b32418474b13c5b1ab7ff85fbcdf9e95cfe0546fc4`
+
+[Download the gzip research object](../../objects/04/04cc631957bab7337e8f33b32418474b13c5b1ab7ff85fbcdf9e95cfe0546fc4.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

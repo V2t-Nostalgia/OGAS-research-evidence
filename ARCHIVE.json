@@ -1,0 +1,70 @@
+{
+  "schema_version": "ogas.evidence_archive.v1",
+  "created_at_utc": "2026-10-20T18:24:14.169124+00:00",
+  "archive_source_commit": "ebe9e9198c6df40c6bbdd97fe4a41ab38f678b04",
+  "historical_source_binding": "per_artifact_context_or_unknown; never retroactively assigned",
+  "roots": [
+    {
+      "label": "runtime-evidence",
+      "files_at_enumeration": 3914
+    },
+    {
+      "label": "local-scratch",
+      "files_at_enumeration": 635
+    },
+    {
+      "label": "artifacts",
+      "files_at_enumeration": 29
+    },
+    {
+      "label": "local-build",
+      "files_at_enumeration": 108
+    },
+    {
+      "label": "pre-publication-reports",
+      "files_at_enumeration": 46
+    },
+    {
+      "label": "remote",
+      "files_at_enumeration": 8497
+    },
+    {
+      "label": "remote",
+      "files_at_enumeration": 2046
+    },
+    {
+      "label": "publication-validation",
+      "files_at_enumeration": 167
+    },
+    {
+      "label": "prototype-art-source",
+      "files_at_enumeration": 3
+    },
+    {
+      "label": "prototype-art-gfx",
+      "files_at_enumeration": 2
+    }
+  ],
+  "counts": {
+    "private_policy_or_third_party_content": 428,
+    "binary_save_capture_image_or_database_not_cleared_for_distribution": 746,
+    "public_original": 9574,
+    "public_redacted_derivative_original_retained": 3975,
+    "game_state_or_external_source_redistribution_not_cleared": 89,
+    "restricted_after_publication_review": 519,
+    "unreviewed_format": 75,
+    "possible_credentials_or_binary_content": 40,
+    "non_utf8_unreviewed": 1,
+    "remote_restricted_original_not_published": 16964,
+    "files": 32411,
+    "original_bytes": 54350245449,
+    "unstable_snapshots": 0,
+    "missing_original_hashes": 0,
+    "public_bytes_uncompressed": 2646776030
+  },
+  "index_sha256": "aae549833ede5a95da1b45a07a2e4873a41d839eae5002f1de05a3b5e52f89f2",
+  "unique_public_objects": 9276,
+  "original_index_access": "local_restricted; originals not deleted",
+  "original_index_sha256": "d5d4936874d4f9d2fa5ac0b1c80e28c74b31855d9220330f6f8e6e4b1636afd5",
+  "evidence_levels": "raw observations, automated reports, human interpretations and live verification remain distinct"
+}

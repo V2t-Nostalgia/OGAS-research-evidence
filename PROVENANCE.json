@@ -1,0 +1,42 @@
+{
+  "schema_version": "ogas.evidence_publication_provenance.v1",
+  "project": "OGAS",
+  "publication": "v0.6.0-alpha.1",
+  "source_repository": "https://github.com/V2t-Nostalgia/OGAS",
+  "signed_source_checkpoint": "b88002e48376785f9608f7e501863388bd124597",
+  "source_corrections_through": "516963fff78643a1e789da9948850be64c0f66b9",
+  "primary_export_baseline_argument": "ebe9e9198c6df40c6bbdd97fe4a41ab38f678b04",
+  "primary_export_tool_commit": "b18aac07368ec09133195291646846c279ea5477",
+  "primary_export_tool_snapshot_sha256": "046bd10dae10a6761016e8f43831c2285e4424c6342271bde7814f42bd3f445c",
+  "initial_review_tool_commit": "59f55cb30571fd6e4563d35ca8de53d8e9ef1d7e",
+  "source_format_review_tool_commit": "e10596b9203a38bbfb48e19fcaebc4e514e80209",
+  "credential_scanner_correction_commit": "516963fff78643a1e789da9948850be64c0f66b9",
+  "source_binding_limit": "Export baseline arguments are publication context, not assertions of a clean tree. Preserved tool snapshots and hashes bind the actual exporter. Historical experiment source is known only where its own receipts or snapshots establish it; otherwise unknown.",
+  "primary_index_sha256": "aae549833ede5a95da1b45a07a2e4873a41d839eae5002f1de05a3b5e52f89f2",
+  "supplemental_index_sha256": "415c7fe9588956f84a963636438ffa9a34f2ecba3ddd42831f7b59e2f620cd9f",
+  "publication_checks_index_sha256": "c67b32cda7170b99310df0b262543af0c62e5477f6457fddb9aa30a4f396688f",
+  "publication_checks_original_private_index_sha256": "38d7ed4e02683ac729e7553dde3ea1f4c3667f1f96e1dc05cb9b13dc9fd21a09",
+  "original_private_index_sha256": "d5d4936874d4f9d2fa5ac0b1c80e28c74b31855d9220330f6f8e6e4b1636afd5",
+  "supplemental_original_private_index_sha256": "b876594837d4fdfb3672f14ddaba8f18e3898fd7d56773ffb9cd337953c7b13c",
+  "historical_context": {
+    "game_versions": ["4.4.6", "4.5.2"],
+    "linux_4_5_2_elf_build_id": "121ecb516cbc5f1d39917fbcc36620534384e2c2",
+    "linux_4_5_2_elf_sha256": "1c4c79a0ef8af7b984b797606373eb68b60fe421e4ef54c20e12e4a9398ba86b",
+    "windows_4_5_2_pe_sha256": "400df27c82ddc845aa9dce79bd468d81f18f060d299cd263e3afa93aef4f7a83",
+    "sdk_fingerprint_observed_in_latest_4_5_2_reports": "6a8f371d3b2753d35532ef013a841a8032701f31052b5965a7c4f3e97e155ea4",
+    "limit": "These identify selected documented inputs, not all archived runs. Consult each run for exact version, build, SDK, source, inputs, tools and verification status."
+  },
+  "publication_safety": {
+    "game_process_calls": 0,
+    "runtime_injections": 0,
+    "commands_submitted": 0,
+    "capability_promotions": 0,
+    "originals_deleted_or_overwritten": false,
+    "release_created": false,
+    "installers_or_executables_distributed": false,
+    "original_mapping_access": "restricted; full private paths and original bytes retained",
+    "public_derivatives": "Privacy-neutralized copies explicitly labeled in index, never passed off as originals",
+    "remote_retention": "23158 hardlink CAS entries protect against pathname removal, not in-place changes; 4348 separately copied originals hash-verified; one changing 865-byte status snapshot retained locally."
+  },
+  "signing_fingerprint": "FAA5513C23C3F379F56EF061B2CFB0BD581F74A1"
+}

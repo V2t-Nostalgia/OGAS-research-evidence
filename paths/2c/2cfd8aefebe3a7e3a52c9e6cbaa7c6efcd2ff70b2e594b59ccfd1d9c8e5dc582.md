@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-sdk-batch-20261019-01/services/stellaris_native_runtime/include/iag_native_runtime/sdk_probe.h`
+
+Access: `public_original`
+
+Original SHA-256: `f5cf9281e7c9b0f0bdf9399fc7f04cc077d491ae638973d8a32d9fbe2370e22b`
+
+Public SHA-256: `f5cf9281e7c9b0f0bdf9399fc7f04cc077d491ae638973d8a32d9fbe2370e22b`
+
+[Download the gzip research object](../../objects/f5/f5cf9281e7c9b0f0bdf9399fc7f04cc077d491ae638973d8a32d9fbe2370e22b.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

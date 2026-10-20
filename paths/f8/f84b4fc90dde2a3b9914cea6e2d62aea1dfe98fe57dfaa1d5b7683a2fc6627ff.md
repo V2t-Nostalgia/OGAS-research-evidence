@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-observe-venv/lib/python3.12/site-packages/pip/_vendor/rich/_windows.py`
+
+Access: `remote_restricted_original_not_published`
+
+Original SHA-256: `76f365f5399f3f3355c622a4e560c58a112b679efdea0d940bdf8a186c9f5e69`
+
+Public SHA-256: `None`
+
+No public original download. Retained in the restricted local vault.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

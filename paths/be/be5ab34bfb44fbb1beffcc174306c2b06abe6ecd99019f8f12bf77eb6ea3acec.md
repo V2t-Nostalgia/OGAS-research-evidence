@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/iag-native-broker-src/src/iag/stellaris/execution/packet/README.md`
+
+Access: `public_original`
+
+Original SHA-256: `b0f618cc6d7a041ee3e7bc9e47ce7bd4562db3b0b2d7ea352a7b6a98dc4d06b0`
+
+Public SHA-256: `b0f618cc6d7a041ee3e7bc9e47ce7bd4562db3b0b2d7ea352a7b6a98dc4d06b0`
+
+[Download the gzip research object](../../objects/b0/b0f618cc6d7a041ee3e7bc9e47ce7bd4562db3b0b2d7ea352a7b6a98dc4d06b0.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

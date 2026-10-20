@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-sdk-scoped-fixture-bc5caee076df4743ba3beecc8eee2dd6/sdk_probe.cpp`
+
+Access: `public_original`
+
+Original SHA-256: `550498542f60626537e1069d4468a571c09d8cfd03fe89979218ec637095c94b`
+
+Public SHA-256: `550498542f60626537e1069d4468a571c09d8cfd03fe89979218ec637095c94b`
+
+[Download the gzip research object](../../objects/55/550498542f60626537e1069d4468a571c09d8cfd03fe89979218ec637095c94b.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

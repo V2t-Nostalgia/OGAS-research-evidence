@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `local-scratch/sdk-recovery/run-10/functions.json`
+
+Access: `public_original`
+
+Original SHA-256: `01a728f575f51260a23c8bdda25d85bbd620a8fb9e75aadf26cf787ec8734a98`
+
+Public SHA-256: `01a728f575f51260a23c8bdda25d85bbd620a8fb9e75aadf26cf787ec8734a98`
+
+[Download the gzip research object](../../objects/01/01a728f575f51260a23c8bdda25d85bbd620a8fb9e75aadf26cf787ec8734a98.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

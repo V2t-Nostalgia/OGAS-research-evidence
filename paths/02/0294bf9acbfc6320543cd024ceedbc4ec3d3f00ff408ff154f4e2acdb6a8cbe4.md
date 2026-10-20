@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-native-452-3938758/stellaris_native_runtime/research/__pycache__/test_observe_dashboard.cpython-313.pyc`
+
+Access: `remote_restricted_original_not_published`
+
+Original SHA-256: `38e19f697a0dad4bda3053466e5b5c29d0f86033cf89a8d7d1ca069d1bc4b866`
+
+Public SHA-256: `None`
+
+No public original download. Retained in the restricted local vault.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

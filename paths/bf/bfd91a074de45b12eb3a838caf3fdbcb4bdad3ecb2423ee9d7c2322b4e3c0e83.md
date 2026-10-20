@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-sdk-batch-20261019-01/services/stellaris_native_runtime/research/observe_dashboard/storage.py`
+
+Access: `public_original`
+
+Original SHA-256: `2b1dd7f624bc474f157416e9f0948def08ee79857e64706455422f6c788136e1`
+
+Public SHA-256: `2b1dd7f624bc474f157416e9f0948def08ee79857e64706455422f6c788136e1`
+
+[Download the gzip research object](../../objects/2b/2b1dd7f624bc474f157416e9f0948def08ee79857e64706455422f6c788136e1.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/iag-agent/state/host_executor/requests/20260802_004725_ec06a97cbf7f/request.json`
+
+Access: `public_redacted_derivative_original_retained`
+
+Original SHA-256: `a987af23b19d21817e3426f8c868c4ca8bfc14c1e90117bfdf4d7dcb749f1ba5`
+
+Public SHA-256: `e96608f4a04cd88d1bf44dbbb5ee75a07460b9f10912e7b6c0fa51e17c82036e`
+
+[Download the gzip research object](../../objects/e9/e96608f4a04cd88d1bf44dbbb5ee75a07460b9f10912e7b6c0fa51e17c82036e.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

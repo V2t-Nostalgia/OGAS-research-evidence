@@ -1,0 +1,25 @@
+{
+  "schema_version": "ogas.evidence_archive.v1",
+  "created_at_utc": "2026-10-20T18:36:54.197625+00:00",
+  "archive_source_commit": "59f55cb30571fd6e4563d35ca8de53d8e9ef1d7e",
+  "historical_source_binding": "per_artifact_context_or_unknown; never retroactively assigned",
+  "roots": [
+    {
+      "label": "supplemental",
+      "files_at_enumeration": 31
+    }
+  ],
+  "counts": {
+    "public_bytes_uncompressed": 423421,
+    "public_original": 29,
+    "files": 31,
+    "original_bytes": 427820,
+    "private_policy_or_third_party_content": 1,
+    "public_redacted_derivative_original_retained": 1
+  },
+  "index_sha256": "415c7fe9588956f84a963636438ffa9a34f2ecba3ddd42831f7b59e2f620cd9f",
+  "unique_public_objects": 30,
+  "original_index_access": "local_restricted; originals not deleted",
+  "original_index_sha256": "b876594837d4fdfb3672f14ddaba8f18e3898fd7d56773ffb9cd337953c7b13c",
+  "evidence_levels": "raw observations, automated reports, human interpretations and live verification remain distinct"
+}

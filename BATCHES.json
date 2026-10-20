@@ -1,0 +1,1120 @@
+{
+  "scope": "Path namespace navigation only, not experimental verification levels.",
+  "groups": {
+    "index.jsonl:artifacts/runtime_validation": {
+      "indexed_paths": 29,
+      "original_bytes_before_deduplication": 87080428,
+      "public_redacted_derivative_original_retained": 9,
+      "public_original": 12,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 8
+    },
+    "index.jsonl:local-build/native-runtime-windows": {
+      "indexed_paths": 20,
+      "original_bytes_before_deduplication": 4272888,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 19,
+      "unreviewed_format": 1
+    },
+    "index.jsonl:local-build/stellaris_native_runtime": {
+      "indexed_paths": 71,
+      "original_bytes_before_deduplication": 12823743,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 66,
+      "unreviewed_format": 4,
+      "public_original": 1
+    },
+    "index.jsonl:local-build/transfer": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 87560,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:local-build/windows-agent": {
+      "indexed_paths": 9,
+      "original_bytes_before_deduplication": 21545742,
+      "unreviewed_format": 2,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 6,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:local-build/windows-native-probe": {
+      "indexed_paths": 7,
+      "original_bytes_before_deduplication": 29329981,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 7
+    },
+    "index.jsonl:local-scratch/cwtools-bridge-build-20261020-01": {
+      "indexed_paths": 30,
+      "original_bytes_before_deduplication": 7602451,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 28,
+      "public_redacted_derivative_original_retained": 1,
+      "public_original": 1
+    },
+    "index.jsonl:local-scratch/live-validation": {
+      "indexed_paths": 19,
+      "original_bytes_before_deduplication": 413797023,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 6,
+      "private_policy_or_third_party_content": 10,
+      "unreviewed_format": 1,
+      "public_redacted_derivative_original_retained": 1,
+      "public_original": 1
+    },
+    "index.jsonl:local-scratch/minidump_pkg": {
+      "indexed_paths": 109,
+      "original_bytes_before_deduplication": 814948,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1,
+      "restricted_after_publication_review": 53,
+      "private_policy_or_third_party_content": 50,
+      "unreviewed_format": 5
+    },
+    "index.jsonl:local-scratch/observe-smoke": {
+      "indexed_paths": 6,
+      "original_bytes_before_deduplication": 419520,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1,
+      "unreviewed_format": 2,
+      "public_redacted_derivative_original_retained": 2,
+      "public_original": 1
+    },
+    "index.jsonl:local-scratch/observe-visual": {
+      "indexed_paths": 6,
+      "original_bytes_before_deduplication": 794708,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1,
+      "unreviewed_format": 2,
+      "public_redacted_derivative_original_retained": 2,
+      "public_original": 1
+    },
+    "index.jsonl:local-scratch/old_runtime_reconstruct.patch": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2400,
+      "unreviewed_format": 1
+    },
+    "index.jsonl:local-scratch/sdk-batch-20261019-01.tar.gz": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1964710,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:local-scratch/sdk-recovery": {
+      "indexed_paths": 463,
+      "original_bytes_before_deduplication": 427182228,
+      "public_original": 424,
+      "public_redacted_derivative_original_retained": 16,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 23
+    },
+    "index.jsonl:pre-publication-reports/AI_MEGASTRUCTURE_HOTSPOT_INVESTIGATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 8527,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/ASCENSION_PERK_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2472,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/BORDER_DIPLOMACY_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1339,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/CAPTURE_BACKED_NATIVE_ACTIONS_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 13320,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/COMMAND_SEMANTIC_TECHNICAL_AUDIT_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 17563,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:pre-publication-reports/COORDINATE_VALUE_REUSE_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 12437,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/COUNCIL_POSITION_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 924,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/DIPLOMACY_WAR_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 7345,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/DIPLOMATIC_PROPOSAL_ACTIONS_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6026,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/EDICT_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1394,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/EMPIRE_POLICY_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1225,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/ESPIONAGE_OPERATION_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2888,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/EVENT_SITUATION_DISCOVERY_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 8758,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/FLEET_CONTROL_CAPTURE_PLAN.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 7102,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/FLEET_MOVEMENT_NATIVE_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 20772,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/GALACTIC_COMMUNITY_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2945,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/HUMAN_AI_COMMAND_DISCOVERY_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 11657,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/LEADER_ASSIGNMENT_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1443,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/LIVE_VALIDATION_PROGRESS_2026_10_18.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5290,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/LONG_RUNNING_AI_COMMAND_CAPTURE_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 19915,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/MARKET_EVENT_WAR_COMMANDS_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 19623,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/MOD_NATIVE_HOOK_COMPATIBILITY_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 10413,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_COMMAND_PRODUCER_DISCOVERY_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 38668,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_FLEET_ATTACK_HOOK_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 4055,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_FLEET_MOVE_HOOK_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 10061,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_RESEARCH_HOOK_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 10292,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_RUNTIME_4_5_2_STATIC_MIGRATION.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6915,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_RUNTIME_ACTION_CATALOG_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 18063,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/NATIVE_RUNTIME_ACTION_CONTRIBUTING.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 8390,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/OBSERVER_AI_COUNTRY_TAKEOVER_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 15901,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/OBSERVE_PERFORMANCE_MOD_ANALYSIS.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 9223,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:pre-publication-reports/PRODUCER_VALIDATION_ACCEPTANCE_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 11093,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:pre-publication-reports/PRODUCER_VALIDATION_WINDOW_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 13499,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SCRIPT_NATIVE_CONSTRAINT_PIPELINE_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 12825,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_BATCH_VALIDATION_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 13942,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_COMMAND_RECOVERY_EXPANSION_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 16002,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_COUNTRY_SCOPED_IDS_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 18839,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_INCREMENTAL_VALIDATION_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 37048,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_MONTHLY_TRADE_IDENTITY_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 9770,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_NESTED_VALUE_RECOVERY_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 4676,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SDK_RECOVERY_4_5_2.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6467,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SITUATION_APPROACH_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1553,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/SPECIES_RIGHTS_NEGATIVE_VALIDATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2143,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/STATE_DIPLOMACY_COMMAND_COVERAGE_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 16886,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/STELLARIS_MCP_TECHNICAL_COMPARISON_2026_10_18.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 12539,
+      "public_original": 1
+    },
+    "index.jsonl:pre-publication-reports/TRADITION_AGENDA_LIVE_VERIFICATION_4_4_6.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1800,
+      "public_original": 1
+    },
+    "index.jsonl:prototype-art-gfx/assistant_portrait.dds": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 262272,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:prototype-art-gfx/thought_bubble.dds": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 524416,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:prototype-art-source/README.md": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1216,
+      "public_original": 1
+    },
+    "index.jsonl:prototype-art-source/assistant_portrait_source.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 280629,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:prototype-art-source/thought_bubble_source.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 586063,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:publication-validation/archive-export-binding.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 778,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/archive_evidence.py": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 20626,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/ci-archive-recovery-success.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5729,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/ci-platform-success.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5729,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/ci-source-checkpoint-linux-failure.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 59707,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/ci-source-checkpoint.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5701,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/final-source-binding.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 525,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/final-source-binding.json.asc": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 273,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/final-source-binding.sig.txt": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 273,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/history-secret-scan-review.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 558,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/history-secret-scan.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 384,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/legacy-research-inputs": {
+      "indexed_paths": 20,
+      "original_bytes_before_deduplication": 92866160,
+      "unreviewed_format": 7,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 9,
+      "public_redacted_derivative_original_retained": 3,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/native-linux-01.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 142,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/native-linux-01.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 12403,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/native-win-01": {
+      "indexed_paths": 125,
+      "original_bytes_before_deduplication": 86842920,
+      "unreviewed_format": 38,
+      "public_redacted_derivative_original_retained": 3,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 79,
+      "restricted_after_publication_review": 1,
+      "public_original": 3,
+      "non_utf8_unreviewed": 1
+    },
+    "index.jsonl:publication-validation/native-win-01.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 819684,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/publication-attempts.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 985,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/python-regression-01.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2938,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/python-regression-02.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2941,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/remote-copy-preservation-01.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 189,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/remote-preservation-01.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 411,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/review_archive_evidence.py": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 24944,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:publication-validation/source-audit-01.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 108759,
+      "public_original": 1
+    },
+    "index.jsonl:publication-validation/staged-links-01.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 464,
+      "public_original": 1
+    },
+    "index.jsonl:remote/iag-agent": {
+      "indexed_paths": 1899,
+      "original_bytes_before_deduplication": 847440842,
+      "private_policy_or_third_party_content": 12,
+      "public_original": 496,
+      "public_redacted_derivative_original_retained": 794,
+      "restricted_after_publication_review": 3,
+      "remote_restricted_original_not_published": 594
+    },
+    "index.jsonl:remote/iag-captures": {
+      "indexed_paths": 15910,
+      "original_bytes_before_deduplication": 46804275786,
+      "public_original": 3879,
+      "public_redacted_derivative_original_retained": 2887,
+      "restricted_after_publication_review": 2,
+      "remote_restricted_original_not_published": 9142
+    },
+    "index.jsonl:remote/iag-command-capture-4.4.6": {
+      "indexed_paths": 6,
+      "original_bytes_before_deduplication": 1179249,
+      "public_original": 2,
+      "remote_restricted_original_not_published": 4
+    },
+    "index.jsonl:remote/iag-command-capture-4.4.6-state-v1": {
+      "indexed_paths": 14,
+      "original_bytes_before_deduplication": 1982416,
+      "public_original": 5,
+      "remote_restricted_original_not_published": 9
+    },
+    "index.jsonl:remote/iag-command-probe-build": {
+      "indexed_paths": 43,
+      "original_bytes_before_deduplication": 3851350,
+      "public_redacted_derivative_original_retained": 3,
+      "restricted_after_publication_review": 1,
+      "public_original": 2,
+      "remote_restricted_original_not_published": 37
+    },
+    "index.jsonl:remote/iag-command-probe-src": {
+      "indexed_paths": 4,
+      "original_bytes_before_deduplication": 52755,
+      "public_original": 4
+    },
+    "index.jsonl:remote/iag-deploy": {
+      "indexed_paths": 173,
+      "original_bytes_before_deduplication": 205073991,
+      "private_policy_or_third_party_content": 4,
+      "public_redacted_derivative_original_retained": 9,
+      "public_original": 82,
+      "remote_restricted_original_not_published": 78
+    },
+    "index.jsonl:remote/iag-live-validation-build-20261018": {
+      "indexed_paths": 4,
+      "original_bytes_before_deduplication": 4032,
+      "public_redacted_derivative_original_retained": 1,
+      "public_original": 1,
+      "remote_restricted_original_not_published": 2
+    },
+    "index.jsonl:remote/iag-live-validation-build-make-20261018": {
+      "indexed_paths": 123,
+      "original_bytes_before_deduplication": 36996818,
+      "public_redacted_derivative_original_retained": 4,
+      "restricted_after_publication_review": 1,
+      "public_original": 4,
+      "remote_restricted_original_not_published": 114
+    },
+    "index.jsonl:remote/iag-live-validation-build-next-20261018": {
+      "indexed_paths": 123,
+      "original_bytes_before_deduplication": 4144014,
+      "public_redacted_derivative_original_retained": 4,
+      "restricted_after_publication_review": 1,
+      "public_original": 4,
+      "remote_restricted_original_not_published": 114
+    },
+    "index.jsonl:remote/iag-live-validation-research-build-20261018": {
+      "indexed_paths": 98,
+      "original_bytes_before_deduplication": 13898003,
+      "public_redacted_derivative_original_retained": 5,
+      "restricted_after_publication_review": 1,
+      "public_original": 6,
+      "remote_restricted_original_not_published": 86
+    },
+    "index.jsonl:remote/iag-live-validation-src-20261018": {
+      "indexed_paths": 131,
+      "original_bytes_before_deduplication": 4557308,
+      "public_original": 87,
+      "remote_restricted_original_not_published": 44
+    },
+    "index.jsonl:remote/iag-native-broker-src": {
+      "indexed_paths": 311,
+      "original_bytes_before_deduplication": 7028619,
+      "public_original": 153,
+      "public_redacted_derivative_original_retained": 3,
+      "possible_credentials_or_binary_content": 5,
+      "remote_restricted_original_not_published": 150
+    },
+    "index.jsonl:remote/iag-native-broker-venv": {
+      "indexed_paths": 1299,
+      "original_bytes_before_deduplication": 23670674,
+      "remote_restricted_original_not_published": 1299
+    },
+    "index.jsonl:remote/iag-native-runtime-build": {
+      "indexed_paths": 29,
+      "original_bytes_before_deduplication": 3856763,
+      "public_redacted_derivative_original_retained": 3,
+      "restricted_after_publication_review": 1,
+      "public_original": 1,
+      "remote_restricted_original_not_published": 24
+    },
+    "index.jsonl:remote/iag-native-runtime-src": {
+      "indexed_paths": 2,
+      "original_bytes_before_deduplication": 23781,
+      "public_original": 2
+    },
+    "index.jsonl:remote/iag-observability": {
+      "indexed_paths": 2486,
+      "original_bytes_before_deduplication": 2743480782,
+      "restricted_after_publication_review": 1,
+      "public_redacted_derivative_original_retained": 3,
+      "remote_restricted_original_not_published": 2482
+    },
+    "index.jsonl:remote/iag-observe-third-tools-20261016": {
+      "indexed_paths": 30,
+      "original_bytes_before_deduplication": 457886,
+      "public_original": 13,
+      "remote_restricted_original_not_published": 17
+    },
+    "index.jsonl:remote/iag_captures": {
+      "indexed_paths": 18,
+      "original_bytes_before_deduplication": 41835540,
+      "public_redacted_derivative_original_retained": 3,
+      "public_original": 5,
+      "remote_restricted_original_not_published": 10
+    },
+    "index.jsonl:remote/tmp": {
+      "indexed_paths": 4804,
+      "original_bytes_before_deduplication": 240496095,
+      "public_original": 1961,
+      "restricted_after_publication_review": 14,
+      "public_redacted_derivative_original_retained": 36,
+      "possible_credentials_or_binary_content": 35,
+      "remote_restricted_original_not_published": 2758
+    },
+    "index.jsonl:runtime-evidence/_inspect": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 76675327,
+      "private_policy_or_third_party_content": 1
+    },
+    "index.jsonl:runtime-evidence/_inspect_2408_03": {
+      "indexed_paths": 2,
+      "original_bytes_before_deduplication": 76573020,
+      "private_policy_or_third_party_content": 2
+    },
+    "index.jsonl:runtime-evidence/_inspect_2408_04": {
+      "indexed_paths": 2,
+      "original_bytes_before_deduplication": 76673912,
+      "private_policy_or_third_party_content": 2
+    },
+    "index.jsonl:runtime-evidence/_inspect_dec": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 77343827,
+      "private_policy_or_third_party_content": 1
+    },
+    "index.jsonl:runtime-evidence/_inspect_jan": {
+      "indexed_paths": 2,
+      "original_bytes_before_deduplication": 76451682,
+      "private_policy_or_third_party_content": 2
+    },
+    "index.jsonl:runtime-evidence/_inspect_mar": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 75974154,
+      "private_policy_or_third_party_content": 1
+    },
+    "index.jsonl:runtime-evidence/_inspect_nov": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 76283820,
+      "private_policy_or_third_party_content": 1
+    },
+    "index.jsonl:runtime-evidence/_inspect_sep": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 76357800,
+      "private_policy_or_third_party_content": 1
+    },
+    "index.jsonl:runtime-evidence/after_instant_move_second.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6477571,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/after_instant_move_transport436.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6466225,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2406.12.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6567248,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2407.03.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6501723,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2407.09.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6532015,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2407.11.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6504062,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2408.01.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6525985,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2408.03.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6549713,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2408.04.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6558726,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2408.05.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6568581,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2408.06.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6560419,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2408.07.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6566313,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2409.01.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6594397,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2409.07.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6605141,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2409.08.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6619133,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2409.09.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6605559,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2410.03.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6593455,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2410.04.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6592807,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2410.09.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6607895,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/autosave_2410.10.01.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6619500,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/colonize_existing_fleet50336542_planet6068.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6465579,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/colony_ship_generated_country0.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6465008,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/constraint-i64-4.5.2-20261020-01": {
+      "indexed_paths": 41,
+      "original_bytes_before_deduplication": 16285205,
+      "public_original": 9,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 28,
+      "public_redacted_derivative_original_retained": 4
+    },
+    "index.jsonl:runtime-evidence/coordinate-reuse-4.5.2-20261020-01": {
+      "indexed_paths": 193,
+      "original_bytes_before_deduplication": 274488759,
+      "public_original": 46,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 38,
+      "public_redacted_derivative_original_retained": 16,
+      "private_policy_or_third_party_content": 4,
+      "game_state_or_external_source_redistribution_not_cleared": 89
+    },
+    "index.jsonl:runtime-evidence/country69-proposal-tooltip.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 467777,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/country69-ui.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 457430,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/federation_vote_support_country32.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6480742,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/federation_vote_support_country32_full.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6480742,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2408.05.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5678288,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2408.06.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5639694,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2408.07.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5633750,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2409.01.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5509733,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2409.07.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5472906,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2409.08.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5475554,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2410.03.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5496412,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2410.04.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5492843,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2410.09.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5492719,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/fleet_2410.10.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5492199,
+      "public_original": 1
+    },
+    "index.jsonl:runtime-evidence/galcom_propose_better_tomorrow_50331717.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6480822,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/gc-industry-after-click.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 481873,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/gc-industry-chain-current.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 460119,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-attack-tooltip.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2118326,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-current.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1824713,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-current2.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1538861,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-fleet-tab.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2164849,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-land-disabled.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2193531,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-land-menu.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2212838,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-pause-state.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1807871,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-progress-state.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1812733,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-tech-locate.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1783733,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-country1-resolution-panel.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 208713,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-current.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2194789,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-industry-chain.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 177794,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-industry-tooltip.jpg": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 178946,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-resolution-browser.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 540024,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-senate-hover.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 977327,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-senate.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 967914,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/iag-ui-vote-hover.png": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2224395,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/live_validation_baseline_2404.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6480594,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/native-command-producers-4.5.2-20261020-01": {
+      "indexed_paths": 54,
+      "original_bytes_before_deduplication": 29954036,
+      "public_original": 53,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "index.jsonl:runtime-evidence/producer-validation-live-4.5.2-20261020-01": {
+      "indexed_paths": 178,
+      "original_bytes_before_deduplication": 8843605,
+      "private_policy_or_third_party_content": 1,
+      "public_redacted_derivative_original_retained": 18,
+      "public_original": 156,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 3
+    },
+    "index.jsonl:runtime-evidence/producer-validation-prep-4.5.2-20261020-01": {
+      "indexed_paths": 463,
+      "original_bytes_before_deduplication": 47903351,
+      "public_original": 297,
+      "public_redacted_derivative_original_retained": 14,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 144,
+      "restricted_after_publication_review": 4,
+      "unreviewed_format": 4
+    },
+    "index.jsonl:runtime-evidence/repair_transport436208059.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6466032,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/script-candidates-4.5.2-20261020-01": {
+      "indexed_paths": 664,
+      "original_bytes_before_deduplication": 304065510,
+      "public_original": 173,
+      "public_redacted_derivative_original_retained": 26,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 133,
+      "private_policy_or_third_party_content": 330,
+      "unreviewed_format": 2
+    },
+    "index.jsonl:runtime-evidence/sdk-batch-20261019-01": {
+      "indexed_paths": 717,
+      "original_bytes_before_deduplication": 4422572,
+      "public_original": 714,
+      "restricted_after_publication_review": 1,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 2
+    },
+    "index.jsonl:runtime-evidence/sdk-expanded-batch-20261019-01": {
+      "indexed_paths": 271,
+      "original_bytes_before_deduplication": 7259752,
+      "public_original": 265,
+      "restricted_after_publication_review": 1,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1,
+      "public_redacted_derivative_original_retained": 4
+    },
+    "index.jsonl:runtime-evidence/sdk-incremental-20261019-01": {
+      "indexed_paths": 404,
+      "original_bytes_before_deduplication": 77591175,
+      "public_redacted_derivative_original_retained": 52,
+      "public_original": 328,
+      "restricted_after_publication_review": 6,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 6,
+      "private_policy_or_third_party_content": 6,
+      "unreviewed_format": 6
+    },
+    "index.jsonl:runtime-evidence/sdk-recovery-expansion-20261019-01": {
+      "indexed_paths": 62,
+      "original_bytes_before_deduplication": 25146866,
+      "public_original": 48,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 6,
+      "restricted_after_publication_review": 3,
+      "public_redacted_derivative_original_retained": 5
+    },
+    "index.jsonl:runtime-evidence/semantic-audit-4.5.2-20261020-01": {
+      "indexed_paths": 795,
+      "original_bytes_before_deduplication": 488862305,
+      "public_original": 267,
+      "restricted_after_publication_review": 425,
+      "public_redacted_derivative_original_retained": 29,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 74
+    },
+    "index.jsonl:runtime-evidence/species_default_country0_from31.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6480762,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/trade_energy10_accept_reject_verified.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6480537,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "index.jsonl:runtime-evidence/upgrade_fleet4967_queue9075.sav": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 6465950,
+      "binary_save_capture_image_or_database_not_cleared_for_distribution": 1
+    },
+    "publication-checks/index.jsonl:publication-checks/FINAL_VALIDATION.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2076,
+      "public_original": 1
+    },
+    "publication-checks/index.jsonl:publication-checks/ci-private-key-regression-corrected.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5753,
+      "public_original": 1
+    },
+    "publication-checks/index.jsonl:publication-checks/ci-private-key-regression-failure.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 15245,
+      "possible_credentials_or_binary_content": 1
+    },
+    "publication-checks/index.jsonl:publication-checks/python-regression-final-integrated-02.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2945,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "publication-checks/index.jsonl:publication-checks/python-regression-final-integrated.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 4585,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "publication-checks/index.jsonl:publication-checks/python-regression-final.log": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 2957,
+      "public_redacted_derivative_original_retained": 1
+    },
+    "supplemental/index.jsonl:supplemental/LEGACY_SOURCE_MEMBERS.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 9302,
+      "public_original": 1
+    },
+    "supplemental/index.jsonl:supplemental/PUBLICATION_TOOLCHAIN.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1110,
+      "public_original": 1
+    },
+    "supplemental/index.jsonl:supplemental/PUBLICATION_TOOLCHAIN.sig.txt": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 273,
+      "public_original": 1
+    },
+    "supplemental/index.jsonl:supplemental/SIGNING_KEY.txt": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 1239,
+      "public_original": 1
+    },
+    "supplemental/index.jsonl:supplemental/ci-publication-review.json": {
+      "indexed_paths": 1,
+      "original_bytes_before_deduplication": 5729,
+      "public_original": 1
+    },
+    "supplemental/index.jsonl:supplemental/legacy-source-members": {
+      "indexed_paths": 26,
+      "original_bytes_before_deduplication": 410167,
+      "private_policy_or_third_party_content": 1,
+      "public_original": 24,
+      "public_redacted_derivative_original_retained": 1
+    }
+  }
+}

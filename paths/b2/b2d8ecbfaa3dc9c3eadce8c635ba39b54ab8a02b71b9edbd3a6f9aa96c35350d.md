@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `runtime-evidence/sdk-batch-20261019-01/batch/command-0024.json`
+
+Access: `public_original`
+
+Original SHA-256: `d9cbdff4aa6e5219642737b1db6c624e19edfc77a26438ff77ed7a85e317fc26`
+
+Public SHA-256: `d9cbdff4aa6e5219642737b1db6c624e19edfc77a26438ff77ed7a85e317fc26`
+
+[Download the gzip research object](../../objects/d9/d9cbdff4aa6e5219642737b1db6c624e19edfc77a26438ff77ed7a85e317fc26.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

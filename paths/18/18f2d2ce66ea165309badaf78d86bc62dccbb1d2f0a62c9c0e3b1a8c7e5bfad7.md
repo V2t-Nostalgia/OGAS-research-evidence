@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-sdk-recovery-20261019/services/stellaris_native_runtime/research/observe_dashboard/overhead_benchmark.py`
+
+Access: `public_original`
+
+Original SHA-256: `9aedba17abf638fb4f3b5b2cae5215d13a0c6bcd157a46dcd5a185c54e1b9fcd`
+
+Public SHA-256: `9aedba17abf638fb4f3b5b2cae5215d13a0c6bcd157a46dcd5a185c54e1b9fcd`
+
+[Download the gzip research object](../../objects/9a/9aedba17abf638fb4f3b5b2cae5215d13a0c6bcd157a46dcd5a185c54e1b9fcd.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-observe-venv/lib/python3.12/site-packages/pip/_vendor/rich/containers.py`
+
+Access: `remote_restricted_original_not_published`
+
+Original SHA-256: `68a826e540c79f9366ba2e8825a29db1985b1c2961fd7ec3fbf5a0f0486bafbb`
+
+Public SHA-256: `None`
+
+No public original download. Retained in the restricted local vault.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

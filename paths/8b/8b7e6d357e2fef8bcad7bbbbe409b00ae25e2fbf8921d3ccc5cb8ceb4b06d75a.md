@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/iag-agent/staging/layout_slots_20260731_0955/save_state/test_extract_planet_profiles.py`
+
+Access: `public_original`
+
+Original SHA-256: `fc440ffc72c181c61abd10f23dc6cc45c023867c283b53dca8ec97e6958815cc`
+
+Public SHA-256: `fc440ffc72c181c61abd10f23dc6cc45c023867c283b53dca8ec97e6958815cc`
+
+[Download the gzip research object](../../objects/fc/fc440ffc72c181c61abd10f23dc6cc45c023867c283b53dca8ec97e6958815cc.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

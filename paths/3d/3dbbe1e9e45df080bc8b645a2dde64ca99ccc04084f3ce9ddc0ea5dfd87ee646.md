@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/iag-captures/sdk-batch-20261019-01/batch/command-0026.json`
+
+Access: `public_original`
+
+Original SHA-256: `01a192f1e174a7519c0fecb0f83528b896b1c2920e4628711c5a81e6750e5015`
+
+Public SHA-256: `01a192f1e174a7519c0fecb0f83528b896b1c2920e4628711c5a81e6750e5015`
+
+[Download the gzip research object](../../objects/01/01a192f1e174a7519c0fecb0f83528b896b1c2920e4628711c5a81e6750e5015.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

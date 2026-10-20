@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `runtime-evidence/semantic-audit-4.5.2-20261020-01/pass-04/recovered_linux_sdk.json`
+
+Access: `public_original`
+
+Original SHA-256: `1291b961cb329e27d404038236f523626fb9fdbb3e42e7d24f2635001d0629f9`
+
+Public SHA-256: `1291b961cb329e27d404038236f523626fb9fdbb3e42e7d24f2635001d0629f9`
+
+[Download the gzip research object](../../objects/12/1291b961cb329e27d404038236f523626fb9fdbb3e42e7d24f2635001d0629f9.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

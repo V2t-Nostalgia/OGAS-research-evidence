@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/iag-native-broker-venv/lib/python3.12/site-packages/pip/_internal/cli/spinners.py`
+
+Access: `remote_restricted_original_not_published`
+
+Original SHA-256: `84827cdc67ab74580509da1b200db726081eb5e825fee0b84a9e7cea7cc56cf1`
+
+Public SHA-256: `None`
+
+No public original download. Retained in the restricted local vault.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `remote/tmp/iag-sdk-recovery-offline-58b6400113744df0b85f646a24df918a/src/iag/stellaris/execution/packet/iag_building_replacement_rewriter.py`
+
+Access: `public_original`
+
+Original SHA-256: `b287c63b062cf12c561dc8c4e4401fd5cf7c1922ad3e605a32f473abce05865a`
+
+Public SHA-256: `b287c63b062cf12c561dc8c4e4401fd5cf7c1922ad3e605a32f473abce05865a`
+
+[Download the gzip research object](../../objects/b2/b287c63b062cf12c561dc8c4e4401fd5cf7c1922ad3e605a32f473abce05865a.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.

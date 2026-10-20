@@ -1,0 +1,13 @@
+# Research Evidence
+
+Path: `local-scratch/sdk-recovery/incremental-offline-28-20261019T2043Z-audit/audit.md`
+
+Access: `public_original`
+
+Original SHA-256: `1bd5a345aac1c059d2cceff3e63e37bf8fe6a86cbb7fe98760eae24f92fcc7ca`
+
+Public SHA-256: `1bd5a345aac1c059d2cceff3e63e37bf8fe6a86cbb7fe98760eae24f92fcc7ca`
+
+[Download the gzip research object](../../objects/1b/1bd5a345aac1c059d2cceff3e63e37bf8fe6a86cbb7fe98760eae24f92fcc7ca.gz). Decompress and verify the public SHA-256.
+
+A redacted derivative is not the original. This entry does not promote a Command or establish causal pairing.
